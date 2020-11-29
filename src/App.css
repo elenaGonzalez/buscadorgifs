@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.centrado{
+  width: 200px;
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contenido{
+  padding-top: 5%;
+}
+
+.blanco{
+  color: white;
+  font-size: x-large;
+}
