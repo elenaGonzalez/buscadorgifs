@@ -21,7 +21,7 @@
 ---
 La idea del proyecto fue desarrollar un buscador de gif que permita obtener resultados interactuando con la API Giphy, sitio que provee gran cantidad de imágenes animadas.
 
-##npm start
+## npm start
 
 Ejecuta la aplicación en modo de desarrollo.
 Abra http: // localhost: 3000 para verlo en el navegador.
