@@ -12,8 +12,6 @@
 
 ## Badges o escudos
 ---
-Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
-
 
 - release version: ![version](https://img.shields.io/badge/buscador--img-0.1.0-blueviolet)
 - package manager release: ![gem](https://img.shields.io/badge/react%20js-%5E16.13.1-9cf)
@@ -23,6 +21,13 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 ---
 La idea del proyecto fue desarrollar un buscador de gif que permita obtener resultados interactuando con la API Giphy, sitio que provee gran cantidad de imágenes animadas.
 
+##npm start
+
+Ejecuta la aplicación en modo de desarrollo.
+Abra http: // localhost: 3000 para verlo en el navegador.
+
 ## Autor
 ---
 Elena Gonzalez.
+
+
