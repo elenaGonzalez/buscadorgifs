@@ -29,8 +29,8 @@ Ejecuta este comando para instalar las dependencias necesarias para el proyecto.
 ## npm start
 ---
 
-Ejecuta la aplicación en modo de desarrollo.
-Abra http: // localhost: 3000 para verlo en el navegador.
+- Ejecuta la aplicación en modo de desarrollo.
+- Abra http: // localhost: 3000 para verlo en el navegador.
 
 ## Autor
 ---
