@@ -21,6 +21,11 @@
 ---
 La idea del proyecto fue desarrollar un buscador de gif que permita obtener resultados interactuando con la API Giphy, sitio que provee gran cantidad de imágenes animadas.
 
+## npm install
+---
+
+Ejecuta este comando para instalar las dependencias necesarias para el proyecto.
+
 ## npm start
 ---
 
